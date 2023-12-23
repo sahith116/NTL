@@ -45,13 +45,3 @@ Electricity Usage and Nightlights data was available for FY2012Q1 - FY2020Q1. GD
 
 
 
-
-FOLDER1: GDP_Analysis:
-Data: RBI-statics data
-This Data Source consists of GDP data collected from RBI statistics of INDIA. From the years 2001 to 2011.
-#Ultimate Goal : 
-Making clusters  based on income level and population.
-There are four types of clusteres. 
-Ultimately we are classifing every state into one of the four clusters based on k-Means clustering algorithm.
-Every state in classified into one of the clusters.
-We can also visualize and figure out the relationship between various socio-economic Factors and theri relationship between with Night Time Light.
